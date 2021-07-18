@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# J-WeatherApp By Jevon Levin / LC035
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React JS Project for Post Training Qualification\
+This project was made for learning purposes with the help of GraphQL API taken from:\
+https://github.com/konstantinmuenster/graphql-weather-api \
+https://graphql-weather-api.herokuapp.com/ \
+
+It provides 4 Main pages: Home Page, Search Page, Detail Page, and Favorite Page
 
 ## Available Scripts
 
