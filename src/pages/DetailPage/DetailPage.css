@@ -1,0 +1,18 @@
+.detail-container {
+  margin-top: 50px;
+}
+.detail-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6rem;
+}
+.detail-weather img {
+  height: 100%;
+}
+.detail-weather {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
